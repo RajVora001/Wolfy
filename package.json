@@ -1,0 +1,13 @@
+{
+  "name": "wolfy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server/sample.js",
+    "test": "node tests/tests.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
